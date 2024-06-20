@@ -11,8 +11,8 @@ class Building:
             return False
 
 
-buiding1 = Building(4, 'Этажи ')
-buiding2 = Building(4, 'Квартиры')
+buiding1 = Building(6, 'Этажи ')
+buiding2 = Building(5, 'Квартиры')
 print(buiding1 == buiding2)
 buiding1 = Building(4, 'Этажи')
 buiding2 = Building(4, 'Квартиры')
